@@ -1,0 +1,23 @@
+{
+  "name": "bob-site",
+  "version": "1.0.0",
+  "description": "This is Bob's website!",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobsmith55/bob-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobsmith55/bob-site/issues"
+  },
+  "homepage": "https://bobsmith55.github.io/bob-site",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
